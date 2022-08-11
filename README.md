@@ -6,5 +6,5 @@ If file is in the same directory then just write bash q1.sh , if it is in anothe
 
 q2.sh
 
-To run script 2, do bash q2.sh filename
+To run script 2, do bash q2.sh
 
